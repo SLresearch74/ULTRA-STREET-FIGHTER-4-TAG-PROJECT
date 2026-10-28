@@ -2,13 +2,17 @@
 
 A 42-character combat pre-alpha for **Ultra Street Fighter IV on Steam**: character-specific launchers, pursuit air combos, juggle changes and bounce finishers.
 
+**Languages:** [English](README.txt) · [Français](docs/fr/README.md) · [Deutsch](docs/de/README.md) · [Italiano](docs/it/README.md) · [Español](docs/es/README.md) · [简体中文](docs/zh-CN/README.md) · [日本語](docs/ja/README.md) · [한국어](docs/ko/README.md)
+
+[All translated roster documents and installation guides](docs/README.md)
+
 ## Download
 
-### [Download the complete pre-alpha ZIP](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/download/v0.1.0/USF4TAG-PreAlpha-0.1.0.zip)
+### [Download the complete pre-alpha ZIP](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/download/v0.1.0/USF4TAG-PreAlpha-0.1.0-Multilingual.zip)
 
-The ZIP includes the installer, simple instructions, full roster changes, credits and notices.
+The multilingual ZIP includes the unchanged v0.1.0 installer, simple instructions and complete roster changes in English plus French, German, Italian, Spanish, Simplified Chinese, Japanese and Korean, along with credits and notices. The launcher interface remains English.
 
-[Release page](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/tag/v0.1.0) · [Installer only](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/download/v0.1.0/USF4TAG-PreAlpha-0.1.0-Setup.exe) · [Download checksums](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/download/v0.1.0/SHA256SUMS.txt)
+[Release page](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/tag/v0.1.0) · [Installer only](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/download/v0.1.0/USF4TAG-PreAlpha-0.1.0-Setup.exe) · [Download checksums](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/download/v0.1.0/SHA256SUMS-Multilingual.txt)
 
 ## What is included?
 

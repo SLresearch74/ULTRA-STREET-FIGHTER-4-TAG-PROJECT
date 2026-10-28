@@ -63,3 +63,14 @@ The game and Simp executable are not bundled in this download.
 PROJECT AND SUPPORT
 https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT
 https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/issues
+
+TRANSLATIONS
+Full roster changes and installation guides: docs/README.md
+Français: docs/fr/README.txt and ROSTER_CHANGES.md
+Deutsch: docs/de/README.txt and ROSTER_CHANGES.md
+Italiano: docs/it/README.txt and ROSTER_CHANGES.md
+Español: docs/es/README.txt and ROSTER_CHANGES.md
+简体中文: docs/zh-CN/README.txt and ROSTER_CHANGES.md
+日本語: docs/ja/README.txt and ROSTER_CHANGES.md
+한국어: docs/ko/README.txt and ROSTER_CHANGES.md
+Launcher interface remains English. Installer and combat build are unchanged.

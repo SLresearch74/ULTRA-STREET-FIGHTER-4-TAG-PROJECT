@@ -1,5 +1,7 @@
 # USF4 TAG Project — Pre-Alpha Roster Changes
 
+[Other languages / Traductions / Übersetzungen / 翻译 / 翻訳 / 번역](docs/README.md)
+
 **Pre-alpha v0.1 · Version 0.1.0 · Accepted combat build 105 · Launcher revision 6 · 42 supported characters · Updated 28 October 2026**
 
 This changelog covers the completed combat pre-alpha. Select **standard Ultra** characters. **Hugo and Hakan are deferred.** This version uses ordinary single-character matches and the stock HUD; team/tag gameplay remains separate.
