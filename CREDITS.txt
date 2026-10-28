@@ -1,0 +1,26 @@
+USF4 TAG! - Pre-alpha v0.1
+
+USF4 Simp mod manager by razor5070, credited by the Ono editor wiki:
+https://ono.frametrapped.com/doku.php?id=about_the_tool_credits
+
+Original Simp download:
+https://ono.frametrapped.com/lib/exe/fetch.php?media=usf4_simp.zip
+Retained original-source archive capture:
+https://web.archive.org/web/20210624145936id_/https://ono.frametrapped.com/lib/exe/fetch.php?media=usf4_simp.zip
+
+The public installer does not bundle Simp. It reuses the exact tested installed
+version or obtains it from the pinned original-source download/archive.
+The archive must match SHA-256:
+9db4a0604a6cce0f91e80e92289c9491f41b5353eaaf38d96e3cb502e06e8276
+The executable must match SHA-256:
+6190b6b809358104da627296a345f29720edf9085b5f3ed2178ffd98556bdbd2
+File version 2.44.1.77; assembly 0.0.7651.26748.
+
+The session runtime uses MinHook v1.3.4 by Tsuda Kageyu and contributors.
+Its retained licence is reproduced in THIRD_PARTY_NOTICES.txt.
+https://github.com/TsudaKageyu/minhook
+
+The game is not included. Combat patches reconstruct edited files using the
+recipient's matching Steam installation. Game names/assets belong to their
+respective owners. This fan project is not publisher-endorsed.
+Third-party components retain their respective notices.
