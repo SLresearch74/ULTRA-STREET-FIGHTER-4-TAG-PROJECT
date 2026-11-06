@@ -1,63 +1,59 @@
-# USF4 TAG! — Pre-alpha v0.1
+# USF4 TAG! — Pre-Alpha v0.1.1
 
-A 42-character combat pre-alpha for **Ultra Street Fighter IV on Steam**: character-specific launchers, pursuit air combos, juggle changes and bounce finishers.
+**Patch 01 · Combat build 119 · 42 characters**
 
-**Languages:** [English](README.txt) · [Français](docs/fr/README.md) · [Deutsch](docs/de/README.md) · [Italiano](docs/it/README.md) · [Español](docs/es/README.md) · [简体中文](docs/zh-CN/README.md) · [日本語](docs/ja/README.md) · [한국어](docs/ko/README.md)
+A combat pre-alpha for **Ultra Street Fighter IV on Steam**. Patch 01 restores heavy pursuit starters and four heavy air-special routes, makes universal launches and pursuit lower and quicker, and adds diminishing lift to repeated grounded juggles.
 
-[All translated roster documents and installation guides](docs/README.md)
+[Download the installer](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/download/v0.1.1/USF4TAG-PreAlpha-0.1.1-Setup.exe) · [Download the full ZIP](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/download/v0.1.1/USF4TAG-PreAlpha-0.1.1.zip) · [Release page](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/tag/v0.1.1) · [SHA-256 checksums](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/download/v0.1.1/SHA256SUMS.txt)
 
-## Download
+## Apply Patch 01
 
-### [Download the complete pre-alpha ZIP](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/download/v0.1.0/USF4TAG-PreAlpha-0.1.0-Multilingual.zip)
+### Update from v0.1.0
 
-The multilingual ZIP includes the unchanged v0.1.0 installer, simple instructions and complete roster changes in English plus French, German, Italian, Spanish, Simplified Chinese, Japanese and Korean, along with credits and notices. The launcher interface remains English.
+1. Close USF4 and Simp normally.
+2. Open **USF4 TAG Pre-Alpha** from your desktop. Choose **Manage → Check for updates**.
+3. Accept **v0.1.1**. The launcher verifies the download before opening Setup. Wait for **Installation complete**.
 
-[Release page](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/tag/v0.1.0) · [Installer only](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/download/v0.1.0/USF4TAG-PreAlpha-0.1.0-Setup.exe) · [Download checksums](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/download/v0.1.0/SHA256SUMS-Multilingual.txt)
+You can also run the v0.1.1 installer directly, select the same Steam USF4 folder and click **Update Pre-Alpha**. The update reuses the existing `tag_pre_v0100` folder and keeps a recovery copy of the previous build.
 
-## What is included?
+### Install for the first time
 
-- **42 supported characters** with individual launchers and move changes.
-- **Hold Up after a launcher hits** to pursue into an air combo.
-- Air normal chains start with a **light or medium**. Heavy normals act as finishers; character exceptions are listed in the roster document.
-- Character-specific air specials, command normals and throws.
-- A permanent launcher with installation, a patch-complete popup, updates, repair/removal, local logs and a bug-report preview.
+1. Close USF4 and Simp. Download **USF4TAG-PreAlpha-0.1.1-Setup.exe**. If you downloaded the ZIP, extract it first.
+2. Run Setup and choose the Steam USF4 folder containing `SSFIV.exe` if asked.
+3. Click **Install Pre-Alpha**. When installation finishes, use the **USF4 TAG Pre-Alpha** desktop shortcut.
 
-**This release is the single-character combat pre-alpha. Team/tag gameplay is still separate. Hugo and Hakan are deferred.** The extra launcher-triggered **50% stun reduction currently applies only in offline standard Ultra Training**. Other modes do not receive that extra stun rule, and online compatibility is not claimed.
+Setup requires your own Steam copy of USF4 on Windows, PowerShell 5.1 and .NET Framework 4.7.2 or newer. It checks the Steam build and stock files, then reuses a verified Simp or downloads and verifies it. If the download is unavailable, Setup can use an existing copy that matches the tested Simp version.
 
-**[Read the complete roster changes](ROSTER_CHANGES.md)** for inputs, launchers, frame changes and exceptions.
+## Play build 119
 
-## Requirements
+1. Open the desktop launcher and click **Launch USF4**.
+2. Wait at the game's **main menu**.
+3. Return to the launcher and click **Load Pre-Alpha**. In Simp, choose or confirm **tag_pre_v0100** and launch the patch.
+4. Wait for **Patching complete** in the launcher. This confirms that the build 119 runtime has started.
+5. Return to USF4 and enter **offline standard Ultra Training**. Select standard Ultra characters.
 
-- Your own installed **Steam copy of Ultra Street Fighter IV**.
-- Windows with **PowerShell 5.1** and **.NET Framework 4.7.2 or newer**.
-- The supported Steam build and required original files; Setup checks them automatically.
-- Internet access for first-time Simp acquisition if the tested version is missing.
+## Patch notes and roster
 
-Setup reuses a matching installed Simp or downloads and verifies the tested version from its original source/archive. The Simp executable and the game are not bundled in the project download. A different installed Simp is preserved. If both download sources are unavailable, Setup lets you select an existing tested copy or cancel.
+The runtime rules apply in offline standard Ultra Training. Hugo and Hakan remain deferred. Assists are part of a separate development build.
 
-## Install and play
+- [Patch 01 changelog](RELEASE_NOTES.md)
+- [Plain-text v0.1.1 play guide](README.txt)
+- [v0.1.0 roster reference](ROSTER_CHANGES.md) for character launchers and move details. Patch 01 takes precedence where it updates those rules.
 
-1. Close USF4 and Simp normally. **Extract the complete ZIP**, then run **USF4TAG-PreAlpha-0.1.0-Setup.exe**.
-2. Choose your Steam USF4 folder if asked, click **Install Pre-Alpha**, and wait for installation to complete.
-3. Open the desktop shortcut, click **Launch USF4**, and wait at the game's **main menu**.
-4. Return to the launcher and click **Load Pre-Alpha**. In Simp, select **tag_pre_v0100** and click **Launch**.
-5. Keep the launcher open until **Patching complete** appears, then enter **standard Ultra Training**.
+### v0.1.0 translations
 
-Use standard Ultra characters. The launcher activates the Training stun rule automatically; there is no separate stun button.
+[Français](docs/fr/README.md) · [Deutsch](docs/de/README.md) · [Italiano](docs/it/README.md) · [Español](docs/es/README.md) · [简体中文](docs/zh-CN/README.md) · [日本語](docs/ja/README.md) · [한국어](docs/ko/README.md)
 
-Your desktop launcher remains available after deleting the downloaded installer. See [README.txt](README.txt) for the complete plain-text instructions.
+These guides cover the v0.1.0 baseline. [All translated roster documents and installation guides](docs/README.md) · [v0.1.0 multilingual ZIP](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/download/v0.1.0/USF4TAG-PreAlpha-0.1.0-Multilingual.zip)
 
-## Normal play, updates and support
+## Normal play and support
 
-- **Normal USF4:** exit USF4 and Simp, then use **Play Normal USF4** or start a fresh Steam session with Simp closed. Original game files and saves are retained.
-- **Updates:** use **Manage → Check for updates**. Newer published installers are downloaded and verified when you choose to update. Close USF4 and Simp before installing an update.
-- **Repair/removal:** use the corresponding **Manage** actions with USF4 and Simp closed. Owned updates and repairs retain recovery copies.
-- **Bugs:** use **Manage → Report a bug**, or [open an issue](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/issues/new). Include the character/opponent, sequence, expected result and actual result. The launcher shows a diagnostics preview; you review and submit the issue on GitHub. Raw logs and files are not uploaded automatically.
+- **Normal USF4** — Exit USF4 and Simp, then choose **Play Normal USF4** or start a fresh Steam session with Simp closed.
+- **Repair or remove** — Close USF4 and Simp, then use the corresponding action under **Manage**.
+- **Report a bug** — Use **Manage → Report a bug** to preview local diagnostics, or open a GitHub issue. Include the characters, inputs, expected result and actual result. [Open an issue](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/issues/new)
 
-## Testing status
-
-The combat roster was accepted through local character playtesting. The working startup runtime and completion popup were checked in a real loading session. Public setup also checks source and output integrity and verifies any downloaded Simp before installation. Independent second-machine installation testing and exhaustive matchup coverage remain pending.
+Patch 01 was checked through a clean install, an in-place v0.1.0 upgrade, and a Steam library outside the default path. The live Steam session confirmed the completion popup, launcher stun scaling and Seth's post-Shoryuken damage scaling.
 
 ## Credits
 
-USF4 Simp was created by **razor5070**. The session runtime uses **MinHook**. See [CREDITS.txt](CREDITS.txt), [THIRD_PARTY_NOTICES.txt](THIRD_PARTY_NOTICES.txt) and the project's [LICENSE](LICENSE). Game names and assets belong to their respective owners; this is a fan project.
+USF4 Simp was created by **razor5070**. The session runtime uses **MinHook**. Game names and assets belong to their respective owners. [Credits](CREDITS.txt) · [Third-party notices](THIRD_PARTY_NOTICES.txt) · [License](LICENSE)

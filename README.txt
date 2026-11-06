@@ -1,5 +1,5 @@
-USF4 TAG! - PRE-ALPHA v0.1
-42-character combat build | Version 0.1.0
+USF4 TAG! - PRE-ALPHA v0.1.1 PATCH 01
+42-character combat build | Build 119
 
 BEFORE YOU START
 You need your own Steam installation of Ultra Street Fighter IV on Windows.
@@ -8,14 +8,14 @@ Windows PowerShell 5.1 and .NET Framework 4.7.2 or newer are required.
 Internet access is needed to get Simp if the tested version is not installed.
 
 This release contains single-character combat changes. Team/tag gameplay is
-still separate. Hugo and Hakan are deferred. The extra 50% stun reduction
-currently applies only in offline standard Ultra Training.
+still separate. Hugo and Hakan are deferred. The runtime combat rules apply
+in offline standard Ultra Training. See RELEASE_NOTES.md for Patch 01.
 
 INSTALL
-1. Close USF4 and Simp normally. Extract the complete ZIP to a folder.
-2. Run USF4TAG-PreAlpha-0.1.0-Setup.exe.
+1. Close USF4 and Simp normally. If you downloaded the ZIP, extract it.
+2. Run USF4TAG-PreAlpha-0.1.1-Setup.exe.
 3. Choose the Steam game folder containing SSFIV.exe if asked.
-4. Click Install Pre-Alpha and wait for Installation complete.
+4. Click Install or Update Pre-Alpha and wait for Installation complete.
 
 Setup installs the mod and sets up the tested Simp version automatically.
 It reuses a matching Simp or downloads and verifies it from its source.
@@ -32,10 +32,10 @@ PLAY
 6. Return to USF4 and enter standard Ultra Training. Use standard Ultra
    characters, rather than Omega or older editions.
 
-The launcher starts the Training stun rule automatically after patching.
+Patching complete confirms the build 119 Training rules have started.
 Hit with your character's launcher and hold Up to follow into the air.
-Start air normal chains with a light or medium; a heavy finishes the chain.
-See ROSTER_CHANGES.md for each character's launcher and full move changes.
+See RELEASE_NOTES.md for Patch 01 and ROSTER_CHANGES.md for the v0.1.0
+character and launcher reference.
 
 NORMAL USF4
 Exit USF4 and Simp normally, then choose Play Normal USF4 or start a fresh
@@ -55,7 +55,8 @@ Unrelated or changed files are preserved and may require your attention.
 
 CONTENTS
 Setup.exe: installs the permanent launcher, runtime and combat patches.
-ROSTER_CHANGES.md: full supported roster and changes; also readable on GitHub.
+RELEASE_NOTES.md: Patch 01 combat changelog.
+ROSTER_CHANGES.md: v0.1.0 roster and move reference.
 CREDITS.txt, THIRD_PARTY_NOTICES.txt, LICENSE.txt: credits and notices.
 SHA256SUMS.txt: download integrity checks.
 The game and Simp executable are not bundled in this download.
@@ -63,14 +64,3 @@ The game and Simp executable are not bundled in this download.
 PROJECT AND SUPPORT
 https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT
 https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/issues
-
-TRANSLATIONS
-Full roster changes and installation guides: docs/README.md
-Français: docs/fr/README.txt and ROSTER_CHANGES.md
-Deutsch: docs/de/README.txt and ROSTER_CHANGES.md
-Italiano: docs/it/README.txt and ROSTER_CHANGES.md
-Español: docs/es/README.txt and ROSTER_CHANGES.md
-简体中文: docs/zh-CN/README.txt and ROSTER_CHANGES.md
-日本語: docs/ja/README.txt and ROSTER_CHANGES.md
-한국어: docs/ko/README.txt and ROSTER_CHANGES.md
-Launcher interface remains English. Installer and combat build are unchanged.
