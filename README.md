@@ -1,24 +1,24 @@
-# USF4 TAG! — Pre-Alpha v0.1.1
+# USF4 TAG! — Pre-Alpha v0.1.2
 
 **Patch 01 · Combat build 119 · 42 characters**
 
 A combat pre-alpha for **Ultra Street Fighter IV on Steam**. Patch 01 restores heavy pursuit starters and four heavy air-special routes, makes universal launches and pursuit lower and quicker, and adds diminishing lift to repeated grounded juggles.
 
-[Download the installer](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/download/v0.1.1/USF4TAG-PreAlpha-0.1.1-Setup.exe) · [Download the full ZIP](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/download/v0.1.1/USF4TAG-PreAlpha-0.1.1.zip) · [Release page](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/tag/v0.1.1) · [SHA-256 checksums](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/download/v0.1.1/SHA256SUMS.txt)
+[Download the installer](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/download/v0.1.2/USF4TAG-PreAlpha-0.1.2-Setup.exe) · [Download the full ZIP](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/download/v0.1.2/USF4TAG-PreAlpha-0.1.2.zip) · [Release page](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/tag/v0.1.2) · [SHA-256 checksums](https://github.com/SLresearch74/ULTRA-STREET-FIGHTER-4-TAG-PROJECT/releases/download/v0.1.2/SHA256SUMS.txt)
 
 ## Apply Patch 01
 
-### Update from v0.1.0
+### Update an existing install
 
 1. Close USF4 and Simp normally.
 2. Open **USF4 TAG Pre-Alpha** from your desktop. Choose **Manage → Check for updates**.
-3. Accept **v0.1.1**. The launcher verifies the download before opening Setup. Wait for **Installation complete**.
+3. Accept **v0.1.2**. The launcher verifies the download before opening Setup. Wait for **Installation complete**.
 
-You can also run the v0.1.1 installer directly, select the same Steam USF4 folder and click **Update Pre-Alpha**. The update reuses the existing `tag_pre_v0100` folder and keeps a recovery copy of the previous build.
+If the launcher cannot open or reports damaged files, run the v0.1.2 installer directly, select the same Steam USF4 folder and click **Update Pre-Alpha**. If v0.1.2 launcher files are damaged later, close the launcher and rerun the same Setup. It replaces the launcher files and keeps the previous launcher folder as a backup. The update reuses the existing `tag_pre_v0100` folder and keeps a recovery copy of the previous build.
 
 ### Install for the first time
 
-1. Close USF4 and Simp. Download **USF4TAG-PreAlpha-0.1.1-Setup.exe**. If you downloaded the ZIP, extract it first.
+1. Close USF4 and Simp. Download **USF4TAG-PreAlpha-0.1.2-Setup.exe**. If you downloaded the ZIP, extract it first.
 2. Run Setup and choose the Steam USF4 folder containing `SSFIV.exe` if asked.
 3. Click **Install Pre-Alpha**. When installation finishes, use the **USF4 TAG Pre-Alpha** desktop shortcut.
 
@@ -37,7 +37,7 @@ Setup requires your own Steam copy of USF4 on Windows, PowerShell 5.1 and .NET F
 The runtime rules apply in offline standard Ultra Training. Hugo and Hakan remain deferred. Assists are part of a separate development build.
 
 - [Patch 01 changelog](RELEASE_NOTES.md)
-- [Plain-text v0.1.1 play guide](README.txt)
+- [Plain-text v0.1.2 play guide](README.txt)
 - [v0.1.0 roster reference](ROSTER_CHANGES.md) for character launchers and move details. Patch 01 takes precedence where it updates those rules.
 
 ### v0.1.0 translations

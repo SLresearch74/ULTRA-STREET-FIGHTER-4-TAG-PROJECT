@@ -1,4 +1,4 @@
-USF4 TAG! - PRE-ALPHA v0.1.1 PATCH 01
+USF4 TAG! - PRE-ALPHA v0.1.2 PATCH 01
 42-character combat build | Build 119
 
 BEFORE YOU START
@@ -13,7 +13,7 @@ in offline standard Ultra Training. See RELEASE_NOTES.md for Patch 01.
 
 INSTALL
 1. Close USF4 and Simp normally. If you downloaded the ZIP, extract it.
-2. Run USF4TAG-PreAlpha-0.1.1-Setup.exe.
+2. Run USF4TAG-PreAlpha-0.1.2-Setup.exe.
 3. Choose the Steam game folder containing SSFIV.exe if asked.
 4. Click Install or Update Pre-Alpha and wait for Installation complete.
 
@@ -22,6 +22,9 @@ It reuses a matching Simp or downloads and verifies it from its source.
 If the download is unavailable, you can select an existing tested copy or
 cancel. A different installed Simp is preserved and will not be overwritten.
 Your desktop shortcut stays installed after deleting the downloaded Setup.
+To repair missing or changed launcher files, close the launcher and run
+this Setup again. Setup keeps a recovery copy of the old launcher folder.
+If your previous launcher cannot check for updates, use this Setup directly.
 
 PLAY
 1. Open USF4 TAG Pre-Alpha from your desktop. Click Launch USF4.

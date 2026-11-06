@@ -1,4 +1,6 @@
-# USF4 TAG Pre-Alpha v0.1.1 — Patch 01
+# USF4 TAG Pre-Alpha v0.1.2 — Patch 01
+
+Setup now repairs missing or changed launcher files and keeps a recovery copy. This launcher update includes combat build 119.
 
 Combat build 119 adds air-combo routes, shortens launch arcs and reduces the lift from repeated grounded juggles across the 42-character pre-alpha. Runtime rules apply in offline standard Ultra Training. Hugo and Hakan remain deferred. Assists are part of a separate development build.
 
@@ -20,8 +22,6 @@ Combat build 119 adds air-combo routes, shortens launch arcs and reduces the lif
 
 ## Install and play
 
-Close USF4 and Simp before installing. If you already have v0.1.0, open the desktop launcher and choose **Manage → Check for updates**. Accept v0.1.1 and wait for **Installation complete**.
-
-For a first install or a manual update, download **USF4TAG-PreAlpha-0.1.1-Setup.exe** from the assets below. Run it, select your Steam USF4 folder if asked, and click **Install Pre-Alpha** or **Update Pre-Alpha**. The launcher retains a recovery copy on update.
+Close USF4 and Simp before updating. Run **USF4TAG-PreAlpha-0.1.2-Setup.exe** and install to your Steam USF4 folder. The launcher can upgrade the existing public pre-alpha and retains a recovery copy.
 
 Click **Launch USF4** and wait at the main menu. Click **Load Pre-Alpha** in the launcher, select **tag_pre_v0100** in Simp and click **Launch**. Wait for **Patching complete**, then enter offline standard Ultra Training.
